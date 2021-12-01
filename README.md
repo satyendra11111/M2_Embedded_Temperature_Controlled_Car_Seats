@@ -15,7 +15,7 @@ The functionality of the heat control system is coded in embedded c and the work
 
 ### OFF
 
-![Simulation_OFF](https://user-images.githubusercontent.com/94337093/144200174-734373ec-2d3e-4c29-b914-9cca84c12ccc.png)
+![Simulation_OFF](https://user-images.githubusercontent.com/94337093/144200480-ebcfc35a-62b5-4ed9-8816-58f8d810c945.png)
 
 
 #### Outputs

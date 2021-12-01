@@ -21,11 +21,9 @@ The functionality of the heat control system is coded in embedded c and the work
 
 |Circuit| RAM Table|
 |:--|:--:|
-![Circuit (1)](https://user-images.githubusercontent.com/94337093/144183093-92dc1485-cf51-4490-8e0f-71589b5d48e1.gif)
-![RAM_table (1)](https://user-images.githubusercontent.com/94337093/144183831-d442492d-c37b-42b4-89b9-1abbcb8627af.gif)
+![Circuit (1)](https://user-images.githubusercontent.com/94337093/144183093-92dc1485-cf51-4490-8e0f-71589b5d48e1.gif)![RAM_table (1)](https://user-images.githubusercontent.com/94337093/144183831-d442492d-c37b-42b4-89b9-1abbcb8627af.gif)
 |CRO|Serial Monitor|
-|![Oscilloscope (1)](https://user-images.githubusercontent.com/94337093/144183934-4beff1f7-9f47-49d3-89b6-8ae073d1052c.gif)
-![Serial_Monitor](https://user-images.githubusercontent.com/94337093/144183970-60966b15-ee18-4cfa-9360-3eedea62e271.gif)|
+|![Oscilloscope (1)](https://user-images.githubusercontent.com/94337093/144183934-4beff1f7-9f47-49d3-89b6-8ae073d1052c.gif)![Serial_Monitor](https://user-images.githubusercontent.com/94337093/144183970-60966b15-ee18-4cfa-9360-3eedea62e271.gif)|
 
 ###Functionality
 When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.

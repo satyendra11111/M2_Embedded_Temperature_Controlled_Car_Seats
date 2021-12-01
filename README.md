@@ -33,3 +33,10 @@ When the two switches are closed, the first LED glows indicating the actuation o
 Next the analog input from the temperature sensor is received and digitized.
 The digitized temperature input is visualized using Pulse Width Modulation.
 The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
+
+
+### CI and Code Quality
+
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/Compile.yml/badge.svg)](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/hemanthasapu/embedded_systems_project_256889/actions/workflows/CodeQuality.yml)

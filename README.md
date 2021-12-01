@@ -25,7 +25,9 @@ The functionality of the heat control system is coded in embedded c and the work
 |CRO|Serial Monitor|
 |![Oscilloscope (1)](https://user-images.githubusercontent.com/94337093/144183934-4beff1f7-9f47-49d3-89b6-8ae073d1052c.gif)|![Serial_Monitor](https://user-images.githubusercontent.com/94337093/144183970-60966b15-ee18-4cfa-9360-3eedea62e271.gif)|
 
-###Functionality
+### Functionality
+
+
 When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
 Next the analog input from the temperature sensor is received and digitized.
 The digitized temperature input is visualized using Pulse Width Modulation.

@@ -37,5 +37,6 @@ The corresponding temperature values based on the digitized temperature input is
 
 ### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
+|Code Quality Score|Code Grade|Codacy|
 |:--:|:--:|:--:|
+|![Code Quality Score](https://api.codiga.io/project/30146/score/svg)||![Code Grade](https://api.codiga.io/project/30146/status/svg)|
